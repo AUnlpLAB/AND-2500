@@ -1,5 +1,5 @@
 # Assamese-News-Dataset
-This repository hosts a curated Assamese News Classification Dataset, developed to address the scarcity of high-quality, structured resources for low-resource Indic languages. The dataset comprises 2,477 news articles, meticulously collected to facilitate research in Natural Language Processing, text classification etc. All news articles in the dataset are written in Assamese script.
+This repository hosts a curated Assamese News Classification Dataset, developed to address the scarcity of high-quality, structured resources for low-resource Indic languages. The dataset comprises 2,500 news articles, meticulously collected to facilitate research in Natural Language Processing, text classification etc. All news articles in the dataset are written in Assamese script.
 
 # Data Collection & Methodology
 The corpus was constructed using a hybrid methodology combining manual collection and web scraping. Sources include leading Assamese newspapers and digital news platforms, ensuring a linguistic style that reflects authentic modern usage. 
