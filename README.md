@@ -39,3 +39,5 @@ This dataset is suitable for various NLP tasks, including but not limited to:
 
 1) **Pragyat Jyoti Baruah** [email- pragyat.jyoti.baruah@aus.ac.in]
 2) **Tirthanka Borah** [email- tirthanka.borah@aus.ac.in]
+
+# N.B.: This contains only a sample of the original dataset. The full AND-2500 dataset will be made public once the manuscript is accepted in the journal 'Computación y Sistemas'
